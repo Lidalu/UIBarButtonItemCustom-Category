@@ -1,0 +1,3 @@
+
+本类别UIBarButtonItem Category模仿了新浪微博左右barButton点击的各种状态，
+用于自定义BarButton的图片或者颜色以及title。
